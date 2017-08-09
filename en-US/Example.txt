@@ -1,2 +1,2 @@
-crwdns36644:0crwdne36644:0
-crwdns36645:0crwdne36645:0
+Simple text
+String for translation #2
