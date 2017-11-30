@@ -1,2 +1,2 @@
 Texto simple
-String for translation #2
+Cadena de traducción #2
