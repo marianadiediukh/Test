@@ -1,2 +1,2 @@
-Simple text
+Texto simple
 String for translation #2
