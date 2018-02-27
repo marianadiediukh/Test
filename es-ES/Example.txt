@@ -1,2 +1,32 @@
-Texto simple
-hey
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="107" original="/Example.properties" source-language="en" target-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="42514" identifier="bb28426d051b20eb3d5e0263819892d8" approved="yes">
+        <source>String for translation 1</source>
+        <target>String for translation 1</target>
+        <note>Context: identifier.1</note>
+      </trans-unit>
+      <trans-unit id="42515" identifier="099454e5dddaf95d7f8b648c0a1b7e8f" approved="yes">
+        <source>String for translation 2</source>
+        <target>String for translation 2</target>
+        <note>Context: identifier.2</note>
+      </trans-unit>
+      <trans-unit id="42516" identifier="cbd6f0ab74549635a8fb9e8669ad3b40" approved="yes">
+        <source>String for translation 3</source>
+        <target>String for translation 3</target>
+        <note>Context: identifier.3</note>
+      </trans-unit>
+      <trans-unit id="42517" identifier="8bc71d6211622781b7230e180df144e0" approved="yes">
+        <source>String for translation 4</source>
+        <target>String for translation 4</target>
+        <note>Context: identifier.4</note>
+      </trans-unit>
+      <trans-unit id="42518" identifier="a3acbbc36f8da91e3f63408afe7ccffb" approved="yes">
+        <source>String for translation 5</source>
+        <target>String for translation 5</target>
+        <note>Context: identifier.5</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
